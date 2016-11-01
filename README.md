@@ -46,3 +46,16 @@ Paper 2, 2004.
 - Statistics Netherlands [code of conduct](https://www.cbs.nl/nl-nl/over-ons/organisatie/jaarverslag/gedragscode) (in Dutch)
 - United States [BLS Guidelines for Informing Users of Information on Quality and Methodology](http://www.bls.gov/bls/quality.htm)
 - [Stodden (2013)](https://web.stanford.edu/~vcs/talks/ISI-Aug302013-STODDEN.pdf) The reproducible research movement in statistics. _59th ISI World Statistics Congress_ Hong Kong (Aug 13, 2013).
+
+
+#### Dynamic documents with R
+
+- [rmarkdown.rstudio.com](http://rmarkdown.rstudio.com/lesson-1.html) getting started
+- [Sweave user manual](https://stat.ethz.ch/R-manual/R-devel/library/utils/doc/Sweave.pdf) Leisch and R-core (2015)
+
+
+#### Building a compendium with R
+
+- [R package development](http://r-pkgs.had.co.nz/) Wickham (2015)
+- [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html) The only official reference.
+
