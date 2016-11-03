@@ -56,6 +56,7 @@ Paper 2, 2004.
 
 #### Building a compendium with R
 
+- [Rtools](https://cran.r-project.org/bin/windows/Rtools/) Needed if you're not on a unix-like OS. 
 - [R package development](http://r-pkgs.had.co.nz/) Wickham (2015)
 - [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html) The only official reference.
 
