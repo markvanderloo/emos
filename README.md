@@ -51,12 +51,43 @@ Paper 2, 2004.
 #### Dynamic documents with R
 
 - [rmarkdown.rstudio.com](http://rmarkdown.rstudio.com/lesson-1.html) getting started
+- [JJ Allaire's talk on Notebooks](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Notebooks-with-R-Markdown) at useR2016 (video).
 - [Sweave user manual](https://stat.ethz.ch/R-manual/R-devel/library/utils/doc/Sweave.pdf) Leisch and R-core (2015)
-
 
 #### Building a compendium with R
 
 - [Rtools](https://cran.r-project.org/bin/windows/Rtools/) Needed if you're not on a unix-like OS. 
 - [R package development](http://r-pkgs.had.co.nz/) Wickham (2015)
 - [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html) The only official reference.
+
+
+### Data validation
+
+#### Value chains
+
+- The [wikipedia article](https://en.wikipedia.org/wiki/Value_chain) has good basic references.
+
+#### The Statistical Value Chain in Official Statistics
+
+There seems to be no general definition of the concept of statistical value chain (SVD) accross statistical institutes. Some examples of documents using the subject:
+
+- The UK Office of National Statistics  [guidelines for measuring statistical quality](http://unstats.un.org/unsd/dnss/docs-nqaf/UK-Guidelines_Subject.pdf) rely on the concept of a SVC
+- Eurostat published a [summary of good practices](http://ec.europa.eu/eurostat/documents/64157/4377619/Summary-of-good-practises.pdf/3be1a60d-2263-4daa-8d20-2b1479c70b1e), organized according to the SVC.
+
+It is likely that statistical value chains are going to be more integrated accross 
+the European Statistical System in some way or another in the future. The driving
+ideas behind this are described in the [ESS Vision 2020](http://ec.europa.eu/eurostat/web/ess/about-us/ess-vision-2020).
+
+#### Foundations of data validation
+
+- A formal typology of data validation functions. [slide deck](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.44/2015/mtg1/PPT_5_new_Netherlands_vanderLoo2015.pdf) and [full paper](http://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.44/2015/mtg1/WP_5_Netherlands_A_formal_typology_of_data_validation_functions.pdf) of the UNECE work session on statistical data editing in Budepest (2015).
+- [Methodology for data validation](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf) Handbook of the ESS.
+
+
+
+
+
+
+
+
 
