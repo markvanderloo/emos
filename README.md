@@ -83,7 +83,10 @@ ideas behind this are described in the [ESS Vision 2020](http://ec.europa.eu/eur
 - A formal typology of data validation functions. [slide deck](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.44/2015/mtg1/PPT_5_new_Netherlands_vanderLoo2015.pdf) and [full paper](http://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.44/2015/mtg1/WP_5_Netherlands_A_formal_typology_of_data_validation_functions.pdf) of the UNECE work session on statistical data editing in Budepest (2015).
 - [Methodology for data validation](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf) Handbook of the ESS.
 
+#### The `validate` package
 
+- [getting started](https://cran.r-project.org/web/packages/validate/vignettes/intro.html) manual
+- [talk](https://www.youtube.com/watch?v=RMCc2Iu0UIQ) given at the [satRdays](https://budapest.satRdays.org) conference
 
 
 
