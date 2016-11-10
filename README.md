@@ -69,14 +69,22 @@ Paper 2, 2004.
 
 #### The Statistical Value Chain in Official Statistics
 
-There seems to be no general definition of the concept of statistical value chain (SVD) accross statistical institutes. Some examples of documents using the subject:
+There seems to be no general definition of the concept of statistical value
+chain (SVD) accross statistical institutes although the use of the term is wide
+spread. Some examples of documents using the subject:
 
 - The UK Office of National Statistics  [guidelines for measuring statistical quality](http://unstats.un.org/unsd/dnss/docs-nqaf/UK-Guidelines_Subject.pdf) rely on the concept of a SVC
 - Eurostat published a [summary of good practices](http://ec.europa.eu/eurostat/documents/64157/4377619/Summary-of-good-practises.pdf/3be1a60d-2263-4daa-8d20-2b1479c70b1e), organized according to the SVC.
 
-It is likely that statistical value chains are going to be more integrated accross 
-the European Statistical System in some way or another in the future. The driving
-ideas behind this are described in the [ESS Vision 2020](http://ec.europa.eu/eurostat/web/ess/about-us/ess-vision-2020).
+It is likely that statistical value chains are going to be more integrated
+accross the European Statistical System in some way or another in the future.
+The driving ideas behind this are described in the [ESS Vision
+2020](http://ec.europa.eu/eurostat/web/ess/about-us/ess-vision-2020). A
+description of how the ESS works can be found
+[here](http://ec.europa.eu/eurostat/cros/system/files/General%20Observations-05-T-European%20Statistical%20System%20v1.0_0.pdf).
+
+
+
 
 #### Foundations of data validation
 
