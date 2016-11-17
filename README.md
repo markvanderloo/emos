@@ -98,7 +98,31 @@ description of how the ESS works can be found
 
 
 
+### Representation of data
+
+#### Tables and data bases
+
+- [wikipedia](https://en.wikipedia.org/wiki/Relational_database) on relational databases
+- [WWWSQLDESIGNER](https://ondras.zarovi.cz/sql/demo/) an online schema designer
+- [wikipedia](https://en.wikipedia.org/wiki/Logical_data_model) on data models
+- [SQLite tutorial](http://www.sqlitetutorial.net/) with exercise database
+
+#### XML, JSON
+
+- [wc3schools](http://www.w3schools.com/xml/) XML tutorial
+- [wc3schools](http://www.w3schools.com/js/js_json_intro.asp) JSON introduction
 
 
+#### Representation of numbers
 
+- [Convert a number to single precision](https://www.youtube.com/watch?v=C3NcYd2hl9s) Video
+- [wikipedia](https://en.wikipedia.org/wiki/IEEE_floating_point) on the IEEE 745 standard
+- [microsoft's deviation](https://support.microsoft.com/en-us/kb/78113) from the IEEE 745 standard
+
+
+#### Representation of text
+
+- [a blogpost](http://kunststube.net/encoding/) describing encoding problems
+- [Unicode table](http://unicode-table.com/en/)
+- [wikipedia](https://en.wikipedia.org/wiki/Character_encoding) on character encoding
 
