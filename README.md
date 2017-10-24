@@ -26,6 +26,7 @@ Some materials to get acquinted with the topic
 
 #### Reproducibility of computation
 
+- [Wilson et al (2016)](https://arxiv.org/abs/1609.00037) Good enough practices in scientific programming.
 - [Literate programming](http://www.literateprogramming.com/knuthweb.pdf) Donald Knuth (1992)
 - [A short movie](https://www.youtube.com/watch?v=s3JldKoA0zw) summarizing the problem.
 - [Peng (2011)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/) [preprint] Reproducible Research in Computational Science. _Science_ **334** 1226-1227.
