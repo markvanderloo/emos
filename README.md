@@ -107,6 +107,7 @@ description of how the ESS works can be found
 - [WWWSQLDESIGNER](https://ondras.zarovi.cz/sql/demo/) an online schema designer
 - [wikipedia](https://en.wikipedia.org/wiki/Logical_data_model) on data models
 - [SQLite tutorial](http://www.sqlitetutorial.net/) with exercise database
+- [Normal forms](https://beginnersbook.com/2015/05/normalization-in-dbms/) explained nicely
 
 #### XML, JSON
 
