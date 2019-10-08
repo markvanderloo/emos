@@ -28,9 +28,9 @@ description of how the ESS works can be found
 [here](http://ec.europa.eu/eurostat/cros/system/files/General%20Observations-05-T-European%20Statistical%20System%20v1.0_0.pdf).
 
 
+### Data validation
 
-
-#### Foundations of data validation
+#### Foundations 
 
 - A formal typology of data validation functions. [slide deck](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.44/2015/mtg1/PPT_5_new_Netherlands_vanderLoo2015.pdf) and [full paper](http://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.44/2015/mtg1/WP_5_Netherlands_A_formal_typology_of_data_validation_functions.pdf) of the UNECE work session on statistical data editing in Budepest (2015).
 - [Methodology for data validation](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf) Handbook of the ESS.
@@ -39,7 +39,6 @@ description of how the ESS works can be found
 
 - [getting started](https://cran.r-project.org/web/packages/validate/vignettes/intro.html) manual
 - [talk](https://www.youtube.com/watch?v=RMCc2Iu0UIQ) given at the [satRdays](https://budapest.satRdays.org) conference
-
 
 
 ### Representation of data
@@ -51,6 +50,12 @@ description of how the ESS works can be found
 - [wikipedia](https://en.wikipedia.org/wiki/Logical_data_model) on data models
 - [SQLite tutorial](http://www.sqlitetutorial.net/) with exercise database
 - [Normal forms](https://beginnersbook.com/2015/05/normalization-in-dbms/) explained nicely
+
+#### The CAP theorem
+
+- [wikipedia article](https://en.wikipedia.org/wiki/CAP_theorem)
+- Proof by [Gilbert and Lynch (2002)](https://courses.e-ce.uth.gr/CE623/CAP_theorem_proof.pdf) ACM SIGACT News **33** 51-55 
+
 
 
 #### Architectural approaches
@@ -67,6 +72,9 @@ description of how the ESS works can be found
 
 ### Information modeling
 
+There are many tutorials on UML, both free and payed. Here are some resources:
 
-
+- [free online tutorial](https://www.tutorialspoint.com/uml/index.htm) by tutorialpoint.com
+- The book [Hamilton and Miles (2006)](https://flatis.moe/uploads/uploads/uml.pdf) is oriented towards IT development.
+- The book by [Grassle, Baumann and Baumann (2005)](http://elearning.utm.my/18191/pluginfile.php/762857/mod_resource/content/1/UML%202%20in%20Action%20-%20Patrik%20Graslse.pdf) also includes business processes.
 
