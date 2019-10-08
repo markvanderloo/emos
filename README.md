@@ -60,7 +60,7 @@ description of how the ESS works can be found
 - Data Mart
     - [wikipedia](https://en.wikipedia.org/wiki/Data_mart)
 - Data Lake
-    - [Stein and Morrison (2014)] PWC Technology forecast **1** 1--8
+    - [Stein and Morrison (2014)](http://www.smallake.kr/wp-content/uploads/2017/03/20170313_074222.pdf) PWC Technology forecast **1** 1--8
     - [wikipedia](https://en.wikipedia.org/wiki/Data_lake)
 - Data virtualisation
     - [wikipedia](https://en.wikipedia.org/wiki/Data_virtualization)
