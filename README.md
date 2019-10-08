@@ -43,6 +43,10 @@ description of how the ESS works can be found
 
 ### Representation of data
 
+#### tidy data
+
+- [Wickham (2014)](https://www.jstatsoft.org/article/view/v059i10) JSS **59**(10)
+
 #### Tables and data bases
 
 - [wikipedia](https://en.wikipedia.org/wiki/Relational_database) on relational databases
